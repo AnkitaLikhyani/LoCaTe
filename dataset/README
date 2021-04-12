@@ -1,0 +1,20 @@
+Dataset information
+
+There are five datasets available in this folder: fsq10, fsq11, brightkite and gowalla. All of these follows the same structure.
+
+File				Description
+————				———————————
+venues				venue id with category information
+checkins			user checkin information i.e. location with timestamp
+location_venue			link between location and venue (signifies all the venues within 50m radius of location id)
+social_graph                  social connection graph
+
+----------------------------------------------------------------------------------------------------------------
+References
+----------------------------------------------------------------------------------------------------------------
+@inproceedings{Likhyani:2015:IEC:2740908.2742770,
+ author = {Likhyani, Ankita and Padmanabhan, Deepak and Bedathur, Srikanta and Mehta, Sameep},
+ title = {Inferring and Exploiting Categories for Next Location Prediction},
+ booktitle = {Proceedings of the 24th International Conference on World Wide Web},
+  year = {2015},
+} 
