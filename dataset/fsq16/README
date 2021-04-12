@@ -1,0 +1,21 @@
+FSq16 Dataset Information:
+
+File				Description
+————				———————————
+venues				venue id with geo-ordinates and category information
+checkins			user checkin information i.e. location with timestamp
+social_graph                  social connection graph
+
+----------------------------------------------------------------------------------------------------------------
+References
+----------------------------------------------------------------------------------------------------------------
+@inproceedings{ijcai2017-314,
+  author    = {Ankita Likhyani, Srikanta Bedathur, Deepak P},
+  title     = {LoCaTe: Influence Quantification for Location Promotion in Location-based Social Networks},
+  booktitle = {Proceedings of the Twenty-Sixth International Joint Conference on
+               Artificial Intelligence, {IJCAI-17}},
+  pages     = {2259--2265},
+  year      = {2017},
+  doi       = {10.24963/ijcai.2017/314},
+  url       = {https://doi.org/10.24963/ijcai.2017/314},
+}
